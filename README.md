@@ -49,17 +49,17 @@ In this project, deep neural network model will be trained to detect traffic sig
 
 *** To try my trained models you can use following links***
 
-    8 Class With aug Yolov3    : https://drive.google.com/file/d/1-7EFaD9T4xhWoz1lHcTyhL1__gy7RcO7/view?usp=sharing
+   8 Class With aug Yolov3    : https://drive.google.com/file/d/1-7EFaD9T4xhWoz1lHcTyhL1__gy7RcO7/view?usp=sharing
     
-    8 Class With aug Yolov4    : https://drive.google.com/file/d/1xxEw4qZFZaieR96hnByV9YPQ_d7xilPw/view?usp=sharing
+   8 Class With aug Yolov4    : https://drive.google.com/file/d/1xxEw4qZFZaieR96hnByV9YPQ_d7xilPw/view?usp=sharing
     
-    8 Class Without aug Yolov3 : https://drive.google.com/file/d/1vefvjDeCZuWrvWyl1HHW9IWGHeRx6jzg/view?usp=sharing
+   8 Class Without aug Yolov3 : https://drive.google.com/file/d/1vefvjDeCZuWrvWyl1HHW9IWGHeRx6jzg/view?usp=sharing
     
-    8 Class Without aug Yolov4 : https://drive.google.com/file/d/1-05zLfiCmYVNF96cECj_tBj9GnlYa1LY/view?usp=sharing
+   8 Class Without aug Yolov4 : https://drive.google.com/file/d/1-05zLfiCmYVNF96cECj_tBj9GnlYa1LY/view?usp=sharing
     
-    4 Class Yolov3             : https://drive.google.com/file/d/1--RiU5o15NtWqx8D3TPE5LOfHFox5r8b/view?usp=sharing
+   4 Class Yolov3             : https://drive.google.com/file/d/1--RiU5o15NtWqx8D3TPE5LOfHFox5r8b/view?usp=sharing
     
-    4 Class Yolov4             : https://drive.google.com/file/d/1-2S6dDbyjF3CFIsaKaMjLR9XrjSHmgvP/view?usp=sharing
+   4 Class Yolov4             : https://drive.google.com/file/d/1-2S6dDbyjF3CFIsaKaMjLR9XrjSHmgvP/view?usp=sharing
 
 
 *** You need to adjust paths accordinly ***
