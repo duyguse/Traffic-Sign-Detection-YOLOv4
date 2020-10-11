@@ -29,7 +29,7 @@ In this project, deep neural network model will be trained to detect traffic sig
 	names=<paths-to-class.names>
 	backup=<paths-to-where-to save-model>
 
-8.) Execute train.ipynb 
+8) Execute train.ipynb 
 	If you execute the code that start with [!./darknet detector -map train] then you will start a training.
 		!./darknet detector -map train "path-to-.data" "path-to-.cfg" "path-to-.weights" -dont_show -points 0
 	If you execute the code that start with [!./darknet detector test] then you can execute a pretrained model to detect object.
