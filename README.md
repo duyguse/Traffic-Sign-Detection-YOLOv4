@@ -1,7 +1,9 @@
 # Traffic-Sign-Detection-YOLOv4
 
-In this project, deep neural network model will be trained to detect traffic signs. Model will predict the bounding box of the found object and will recognize the what is the object is
+In this project, deep neural network model will be trained to detect traffic signs. Model will predict the bounding box of the found object and will recognize the what is the object is.
 
+
+## How to Run
 
 
 1) Download GTSDB FullIJCNN2013.zip
